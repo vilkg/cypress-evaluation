@@ -1,0 +1,29 @@
+{
+  "name": "cypress-evaluation",
+  "version": "1.0.0",
+  "description": "Evaluation of cypress framework for professional development purposes",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilkg/cypress-evaluation.git"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "cypress"
+  ],
+  "author": "Gintare Vilkelyte <vilkelyte.gintare@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilkg/cypress-evaluation/issues"
+  },
+  "homepage": "https://github.com/vilkg/cypress-evaluation#readme"
+}
